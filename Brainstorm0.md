@@ -10,13 +10,9 @@ extent, top down).”
 
 # 3 Classifications
 
-* Agile = Software Development Process
-* DevOps = Cross-disciplinary community of practice
-* Inner Source = Software Development Methodology and Culture
-
-Process
-Community of Practice
-Methodology & Culture
+* Agile = Software Development Process = PROCESS
+* DevOps = Cross-disciplinary community of practice = COMMUNITY OF PRACTICE
+* Inner Source = Software Development Methodology and Culture = METHODOLOGY & CULTURE
 
 DevOps ties operations into the Agile process
 
