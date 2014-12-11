@@ -10,34 +10,36 @@ extent, top down).”
 
 # 3 Classifications
 
-- Agile = Software Development Process
-- DevOps = Cross-disciplinary community of practice
-- Inner Source = Software Development Methodology and Culture
+* Agile = Software Development Process
+* DevOps = Cross-disciplinary community of practice
+* Inner Source = Software Development Methodology and Culture
 
-- Process
-- Community of Practice
-- Methodology & Culture
+Process
+Community of Practice
+Methodology & Culture
 
 DevOps ties operations into the Agile process
 
 [1] http://theagileadmin.com/what-is-devops/
+
 [2] http://blog.devopsguys.com/2013/02/20/twelve-devops-anti-patterns/
+
 [3] http://www.devops-summit.org/bangalore/2014/World_DevOps_Summit/index/overview
 
-# DevOps according to Chris Pitman:
+# DevOps according to Chris Pitman
 
 This was quickly spurred on Chris and so was more a conversation between him and I off the top of his head….
 
-DevOps qualities
+## DevOps qualities
 Steps of evolving culture: unsilo’ing - sharing - transparency, additional feedback cycles (process and people just talk across teams) (colocate, same team, part of agile, )
 
-DevOps methods / patterns
+## DevOps methods / patterns
 Scripting (valuable asset, dev resource, reusable), automation, agile dev across everything
 Config Mgmt - websphere module shared everywhere
  - Puppet - sys admins
  - Chef - Ruby
 
-# Is DevOps implemented in Open Source?
+# Is DevOps implemented in open source?
 
 Chris feels that open source has weak interaction between development of code and actually implementing it in a real environment.
 
