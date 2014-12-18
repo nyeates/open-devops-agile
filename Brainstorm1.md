@@ -52,3 +52,9 @@ are found within each of the 3 models. We need to discover these with our conglo
 Malc:
 - Orgs may want to do CI, but not necessarily OSS
 - The Traits and Elements of Inner Source are more important than the naming or association with open source
+
+# Moving fwd
+- Nick has created a public google doc to compare and contrast the 3 methods
+- https://docs.google.com/spreadsheets/d/1PInbZW6BaaChsSa8EeLeSADg03Bjo9qCIhCkUI-A_fI/edit?usp=sharing
+- Andrew and team will review and partake
+- Nick is asking James and Chris and Roy to take part in helping with it too
